@@ -1,0 +1,37 @@
+.title {
+	margin-left: 120px;
+	font-size: 28px;
+}
+
+.sectionInfo {
+	margin-top: 0;
+	font-size: 20px;
+}
+
+.role {
+	font-size: 14px;
+}
+
+.section {
+	display: flex;
+	flex-direction: row;
+	margin-bottom: 20px;
+}
+
+.labelWrapper {
+	flex: 0 0 120px;
+}
+
+.sectionLabel {
+	font-size: 16px;
+	font-weight: 200;
+	color: #c5c5c5;
+	text-align: right;
+	margin-top: 2px;
+	padding-right: 20px;
+}
+
+.list {
+	list-style-type: none;
+	padding-left: 0;
+}
